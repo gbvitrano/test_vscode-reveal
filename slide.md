@@ -33,6 +33,8 @@ Vivamus ac accumsan massa. Sed ullamcorper elementum consequat. Lorem ipsum dolo
 ## Nulla facilisi. 
 Donec porttitor dolor vel nunc tempus cursus. Pellentesque non scelerisque odio, eu sagittis turpis. Integer bibendum enim et est bibendum vestibulum. Vivamus molestie quis neque in vestibulum. 
 
+![foto1](immago/amministrative_2017_voti_sindaco.jpg)
+
 --
 
 ## Mauris est felis
