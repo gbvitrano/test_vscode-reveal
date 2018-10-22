@@ -8,11 +8,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat mauris ex
 
 Aliquam dignissim rutrum diam, eget eleifend dolor facilisis id. Donec posuere blandit velit, eu auctor lorem porttitor id. Nullam aliquam mauris turpis. Aliquam molestie, lacus sit amet auctor varius, risus purus molestie ante, id venenatis massa tellus et ligula. Aenean eget nibh et ex bibendum elementum dapibus et mauris. Pellentesque luctus ligula est, ut aliquet ligula venenatis ut. Fusce faucibus, quam et tempus varius, nisl tortor blandit metus, sed ullamcorper magna mi vitae leo. Suspendisse vel libero orci. Fusce vitae vehicula augue. Ut nunc eros, scelerisque id urna varius, efficitur facilisis elit. Nullam et eleifend massa. Mauris maximus lorem sit amet ante pulvinar, eget blandit ipsum interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
+<p align="center">
+  <a href="http://bit.ly/hfcqgis" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/logo_hfc_00.png" alt="pigrecoinfinito
+"  width="800" title="“Sito realizzato dalla comunità OpenDataSicilia"></a>
+</p>
+
 ---
 
 ## Bla bla 
 
 Curabitur interdum, risus a luctus tempor, est velit malesuada massa, sit amet bibendum magna felis vel ex. Praesent non turpis diam. Nullam sodales imperdiet dui. Suspendisse lacinia dolor non viverra vulputate. Maecenas quis purus orci. Morbi sollicitudin erat in bibendum fringilla. Sed tristique sapien non ipsum mattis tempor. Quisque non turpis finibus, eleifend turpis eget, pharetra tellus. Mauris volutpat nunc eu ex commodo, ac tristique nunc dapibus. Pellentesque nec odio quis enim accumsan fermentum. 
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/gbvitrano/test_vscode-reveal/master/immago/amministrative_2017_affluenza.jpg" alt="pigrecoinfinito
+"  width="500" title="“Sito realizzato dalla comunità OpenDataSicilia"></a>
+</p>
 
 --
 
